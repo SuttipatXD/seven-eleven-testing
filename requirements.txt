@@ -1,0 +1,7 @@
+robotframework==6.1.1
+robotframework-seleniumlibrary==6.1.2
+robotframework-selenium2library==3.0.0
+robotframework-requests==0.9.6
+robotframework-excellib==2.0.1
+robotframework-stacktrace==0.4.1
+robotframework-tidy==4.10.0

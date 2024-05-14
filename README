@@ -1,0 +1,5 @@
+install library with pip:
+    pip install -r requirements.txt
+run test-case:
+    robot test-case-file.robot
+    robot --include tad-name test-case-file.robot
