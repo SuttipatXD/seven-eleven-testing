@@ -1,4 +1,6 @@
 install library with pip:
+    python3 get-pip.py
+    pip --version
     pip install -r requirements.txt
 run test-case:
     robot test-case-file.robot
