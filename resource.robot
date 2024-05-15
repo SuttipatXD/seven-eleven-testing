@@ -21,6 +21,7 @@ Login
     ...    ${index-span}=1
     ...    ${time-out}=30s
     Open Browser    ${URL}    browser=chrome
+    setDefualtPage
     Wait Until Page Contains Element
     ...    xpath=//input[@name="${input-email}" and @type="email"]
     ...    timeout=${time-out}
